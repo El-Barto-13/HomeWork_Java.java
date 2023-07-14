@@ -14,9 +14,9 @@
 //
 //    int[] ints = new int[5];
 //
-//    //psvm или main точка входа (обязательно нужна) -->>
-////    public static void main(String[] args) {
-////    }
+//    psvm или main точка входа (обязательно нужна) -->>
+//    public static void main(String[] args) {
+//    }
 //
 //
 //    public static void main(String[] args) {
